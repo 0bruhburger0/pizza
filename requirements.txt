@@ -1,0 +1,6 @@
+aiogram==2.6.1
+apiai==1.2.3
+pyTelegramBotAPI==3.6.7
+python-telegram-bot==12.4.2
+requests==2.24.0
+
